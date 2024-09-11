@@ -6,5 +6,8 @@ let firstName = "Sergey";
 let surName = "Ivanov";
 
 console.log(
-  `Average score of a student ${firstName} ${surName} is: ${averageScore}`
+  `Average score of a student ${firstName.slice(
+    0,
+    1
+  )}. ${surName} is: ${averageScore}`
 );
