@@ -1,6 +1,6 @@
-let intro = 8;
-let git = 9;
-let js = 8;
+let intro = 88;
+let git = 99;
+let js = 87;
 let averageScore = (intro + git + js) / 3;
 let firstName = "Sergey";
 let surName = "Ivanov";
